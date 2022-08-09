@@ -1,0 +1,53 @@
+{
+
+  "data":[
+
+    {
+
+      "nama":"ucup",
+
+      "password":"123",
+
+      "img":"img/1.jpg"
+
+    },
+
+    {
+
+      "nama":"burhan",
+
+      "password":"123",
+
+      "img":"img/2.jpg"
+
+    },
+
+    {
+
+      "nama":"edi",
+
+      "password":"123",
+
+      "img":"img/3.jpg"
+
+    }
+
+  ],
+
+  "album":[
+
+    {
+
+      "1":"mmq.jpg", 
+
+      "2":"kntl.jpg", 
+
+      "3":"knyt.jpg", 
+
+      "4":"itl.jpg"
+
+    }
+
+  ]
+
+}
