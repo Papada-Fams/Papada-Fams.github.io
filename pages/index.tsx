@@ -20,10 +20,10 @@ export default function index() {
             Welcome to GTM Gallery
           </h1>
           <p className="text-2xl font-bold text-center text-white my_font">
-            "We are a group against losers."
+            "Tongkrongan kami bukan Tongkrongan pecundang"
           </p>
-          <Link href="/gallery">
-            <button className="bn">let's go</button>
+          <Link href="/Login">
+            <span className="my_font">Let's Go</span>
           </Link>
         </div>
       </div>
